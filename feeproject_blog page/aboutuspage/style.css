@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: gray;
+    color: #fff;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Navbar Styles */
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: gray;
+    width: 100%;
+  }
+  
+  .navbar .logo {
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+  
+  .navbar .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  .navbar .nav-links li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+  }
+  
+  .navbar .signin-btn {
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
+  /* Main Section */
+  .main-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+    width: 80%;
+  }
+  
+  .main-section .content {
+    max-width: 50%;
+  }
+  
+  .main-section .title {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    font-family: 'Arial Black', sans-serif;
+  }
+  
+  .main-section .subtitle {
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+  }
+  
+  .order-btn {
+    background-color: #f4a261;
+    border: none;
+    padding: 0.7rem 1.5rem;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-right: 1rem;
+  }
+  
+  .price {
+    font-size: 1.7rem;
+  }
+  
+  .main-section .image img {
+    height:500px;
+    width: 600px;
+    border-radius: 15px;
+  }
