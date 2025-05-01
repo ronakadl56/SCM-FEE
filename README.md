@@ -1,46 +1,47 @@
-📝 Blog Page – Frontend Project
-📌 Project Overview
+# Blog Page – Frontend Project
+
+## 📌 Project Overview
 This is a modern and responsive Blog Page designed as a web-based platform for showcasing blog posts with a clean and engaging layout. The goal of the project was to deliver an aesthetically pleasing, well-structured, and interactive blog interface using core frontend technologies. It features structured content sections, interactive elements, and a consistent visual style to enhance user experience.
 
-🛠 Team Name: Sleepy Coder
+🚀 **Team Name: Sleepy Coder**
 
-👥 Team Members
-Rhythm – UI/UX & Styling
+---
 
-Kavy – HTML & CSS
+## 👥 Team Members
+- **Rhythm** – UI/UX & Styling  
+- **Kavy** – HTML & CSS  
+- **Rahul Gupta** – JavaScript & Interactivity
 
-Rahul Gupta – JavaScript & Interactivity
+---
 
-✅ Contributions
-🎨 Rhythm
-Designed the user interface and overall page layout
+## ✅ Contributions
 
-Created wireframes and user flow concepts
+### 🎨 Rhythm
+- Designed the overall user interface and layout
+- Created wireframes and design mockups for the blog page
+- Selected color schemes, typography, and styling elements
+- Ensured a consistent and engaging user experience
 
-Worked on visual styling, color schemes, and typography
+---
 
-Ensured UI/UX consistency across all sections of the blog
+### 🧱 Kavy
+- Developed semantic HTML structure for all pages (Home, Blog Post, About)
+- Implemented CSS for layout and responsiveness
+- Focused on accessibility and proper content formatting
+- Maintained structural integrity across different devices
 
-🧱 Kavy
-Developed the HTML structure for blog content, sidebar, and navigation
+---
 
-Implemented responsive CSS to ensure mobile and desktop compatibility
+### ⚙️ Rahul Gupta
+- Implemented JavaScript for interactive elements (e.g., theme switch, read more/less)
+- Managed DOM manipulation and event listeners
+- Ensured smooth transitions and user interactions
+- Handled form validations and minor animations
 
-Structured semantic HTML for accessibility and SEO best practices
+---
 
-Helped maintain layout alignment and consistency across devices
+## 🙏 Thank You
+We appreciate your time and feedback.  
+This project was made with teamwork, dedication, and a shared goal to build something helpful and user-friendly.
 
-⚙️ Rahul Gupta
-Developed JavaScript logic for interactive features (e.g., read more toggle, theme switch, comment form validation)
-
-Implemented dynamic content display and animations
-
-Ensured smooth user interactions with event-driven programming
-
-Helped debug and optimize page load and interactivity
-
-🙏 Thank You
-We appreciate your time and feedback.
-This blog page was created with collaboration, creativity, and a shared passion for building meaningful web experiences.
-
-— Team Sleepy Coder ☕
+— _Team Sleepy Coder_ ☕
